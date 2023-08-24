@@ -1,0 +1,7 @@
+env.ts
+
+dist
+package
+.DS_Store
+.slack
+.idea
